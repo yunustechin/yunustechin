@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Yunus Emre. <img src="https://github.com/yunustechin/yunustechin/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="450"/>
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3ODZkamU3eHFoNXRhcjUxY3M1aXJpNGZkNjVkbWIzOHJvbDJhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
