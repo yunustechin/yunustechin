@@ -13,13 +13,13 @@
 <h3> 🛠 Tech Stack </h3>
 
 **Programming Languages**  
-`Python` • `C++` • `Java`
+`Python` • `C/C++` • `Java`
 
 **Web & Backend Development**  
 `Django` • `Flask` • `FastAPI` • `JavaScript` • `HTML` • `CSS` • `Bootstrap`
 
 **Databases**  
-`MariaDB` • `PostgreSQL` • `MongoDB`
+`PostgreSQL` • `SQLAlchemy` • `MariaDB`
 
 **DevOps & Cloud**  
 `Docker` • `Kubernetes` • `CI/CD` • `Jenkins` • `Terraform` • `AWS`
