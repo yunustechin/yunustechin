@@ -3,12 +3,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 Computer Engineering student at Marmara University.
-- 💼 Passionate about Full Stack Development, Backend Engineering, and Cloud Technologies.
-- 🚀 Enthusiastic about Cyber Security and exploring new technologies.
-- 💡 Constantly improving my problem-solving skills and learning new tools.
-- ⚡ Enjoy building scalable backend systems and API-driven solutions.
-- ☕ A strong cup of coffee fuels my creativity and focus.
+🎓 Computer Engineering student at Marmara University.  
+💼 Passionate about Full Stack Development, Backend Engineering, and Cloud Technologies.  
+🚀 Enthusiastic about exploring new technologies and building scalable **RESTful APIs**.  
+💡 Constantly improving my problem-solving skills and learning new tools.  
+⚡ Enjoy building **API-driven solutions** and working with **REST principles** (stateless, cacheable, CRUD operations).  
+☕ A strong cup of coffee fuels my creativity and focus.  
 
 <h3> 🛠 Tech Stack </h3>
 
