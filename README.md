@@ -13,20 +13,16 @@
 <h3> 🛠 Tech Stack </h3>
 
 **Programming Languages**  
-`Python` • `C/C++` • `Java`
+`Python` • `C/C++` • `Java`  
 
 **Web & Backend Development**  
-`Django` • `Flask` • `FastAPI` • `JavaScript` • `HTML` • `CSS` • `Bootstrap`
+`Django` • `Flask` • `FastAPI` • `JavaScript (ES6+)` • `HTML` • `CSS` • `Bootstrap 5`  
 
 **Databases**  
-`PostgreSQL` • `SQLAlchemy` • `MariaDB`
+`PostgreSQL` • `MariaDB` • `MongoDB` • `SQLAlchemy`  
 
 **DevOps & Cloud**  
-`Docker` • `Kubernetes` • `CI/CD` • `Jenkins` • `Terraform` • `AWS`
-
-**AI & Data Science**  
-`TensorFlow` • `PyTorch` • `OpenCV`
-
+`Docker` • `Kubernetes` • `Terraform` • `CI/CD (GitHub Actions, Jenkins)` • `AWS (EC2, S3, Lambda)` • `Git`
 ---
 
 <h3> 📊 GitHub Stats </h3>
