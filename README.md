@@ -4,10 +4,10 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 Computer Engineering student at Marmara University.
-- 💼 Passionate about Artificial Intelligence, Full Stack Development, and Backend Engineering.
-- 🚀 Enthusiastic about Machine Learning, Cyber Security, and Cloud Technologies.
-- 💡 Constantly exploring new technologies and improving my problem-solving skills.
-- ⚡ Love working on AI-driven solutions and scalable backend architectures.
+- 💼 Passionate about Full Stack Development, Backend Engineering, and Cloud Technologies.
+- 🚀 Enthusiastic about Cyber Security and exploring new technologies.
+- 💡 Constantly improving my problem-solving skills and learning new tools.
+- ⚡ Enjoy building scalable backend systems and API-driven solutions.
 - ☕ A strong cup of coffee fuels my creativity and focus.
 
 <h3> 🛠 Tech Stack </h3>
