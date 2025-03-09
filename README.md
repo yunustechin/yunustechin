@@ -44,10 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunustechin&layout=compact&theme=dark&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://wakatime.com/badge/user/46d9b397-8730-4fcf-9084-61ad866b7038.svg" alt="Wakatime coding activity" width="48%"/>
-</p>
-
 ---
 
 <h3> 🤝 Connect with Me </h3>
