@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@yunustechin/badge.svg" alt="Wakatime coding activity" width="48%"/>
+  <img src="https://wakatime.com/badge/user/46d9b397-8730-4fcf-9084-61ad866b7038.svg" alt="Wakatime coding activity" width="48%"/>
 </p>
 
 ---
