@@ -19,7 +19,7 @@
 `Django` • `Flask` • `FastAPI` • `JavaScript (ES6+)` • `HTML/CSS` • `Bootstrap 5`  
 
 **Databases**  
-`PostgreSQL` • `MariaDB` • `MongoDB` • `SQLAlchemy`  
+`SQLite` • `MariaDB` • `PostgreSQL` • `SQLAlchemy` • `MongoDB`  
 
 **DevOps & Cloud**  
 `Docker` • `Kubernetes` • `Terraform` • `CI/CD (GitHub Actions, Jenkins)` • `AWS (EC2, S3, Lambda)` • `Git`
