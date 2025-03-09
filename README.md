@@ -5,10 +5,12 @@
 
 🎓 Computer Engineering student at Marmara University.  
 💼 Passionate about Full Stack Development, Backend Engineering, and Cloud Technologies.  
-🚀 Enthusiastic about exploring new technologies and building scalable **RESTful APIs**.  
+🚀 Enthusiastic about exploring new technologies and building scalable **RESTful APIs, GraphQL, and gRPC services**.  
 💡 Constantly improving my problem-solving skills and learning new tools.  
 ⚡ Enjoy building **API-driven solutions** and working with **REST principles** (stateless, cacheable, CRUD operations).  
 ☕ A strong cup of coffee fuels my creativity and focus.  
+
+---
 
 <h3> 🛠 Tech Stack </h3>
 
@@ -18,11 +20,17 @@
 **Web & Backend Development**  
 `Django` • `Flask` • `FastAPI` • `JavaScript (ES6+)` • `HTML/CSS` • `Bootstrap 5`  
 
-**Databases**  
-`SQLite` • `MariaDB` • `PostgreSQL` • `SQLAlchemy` • `MongoDB`  
+**API Development**  
+`RESTful APIs` • `GraphQL` • `gRPC`  
+
+**Databases & Caching**  
+`SQLite` • `MariaDB` • `PostgreSQL` • `SQLAlchemy` • `MongoDB` • `Redis` • `Memcached`  
 
 **DevOps & Cloud**  
-`Docker` • `Kubernetes` • `Terraform` • `CI/CD (GitHub Actions, Jenkins)` • `AWS (EC2, S3, Lambda)` • `Git`
+`Docker` • `Kubernetes` • `Terraform` • `CI/CD (GitHub Actions, Jenkins)` • `AWS (EC2, S3, Lambda)` • `Git`  
+
+**Testing & Tools**  
+`Pytest` • `JUnit` • `Postman`  
 
 ---
 
@@ -34,6 +42,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunustechin&layout=compact&theme=dark&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/yunustechin.svg" alt="Wakatime coding activity" width="48%"/>
 </p>
 
 ---
@@ -49,4 +61,5 @@
   </a>  
   <a href="mailto:yunustechin@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" />
- 
+  </a>
+</p>
