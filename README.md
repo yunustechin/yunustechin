@@ -24,7 +24,7 @@
 `RESTful APIs` • `GraphQL` • `gRPC`  
 
 **Databases & Caching**  
-`SQLite` • `MariaDB` • `PostgreSQL` • `SQLAlchemy` • `MongoDB` • `Redis` • `Memcached`  
+`SQLite` • `MySQL/MariaDB` • `PostgreSQL` • `SQLAlchemy` • `MongoDB` • `Redis` • `Memcached`  
 
 **DevOps & Cloud**  
 `Docker` • `Kubernetes` • `Terraform` • `CI/CD (GitHub Actions, Jenkins)` • `AWS (EC2, S3, Lambda)` • `Git`  
