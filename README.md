@@ -15,13 +15,10 @@
 <h3> 🛠 Tech Stack </h3>
 
 **Programming Languages**  
-`Python` • `C/C++` • `Java`  
-
-**Web & Backend Development**  
-`Django` • `Flask` • `FastAPI` • `JavaScript (ES6+)` • `HTML/CSS` • `Bootstrap 5`  
+`Python` • `C/C++` • `Java` • `HTML/CSS` • `JavaScript (ES6+)` • `Node.js`
 
 **API Development**  
-`RESTful APIs` • `GraphQL` • `gRPC`  
+`RESTful APIs` • `GraphQL` • `gRPC` • `Flask/FastAPI`
 
 **Databases & Caching**  
 `SQLite` • `MySQL/MariaDB` • `PostgreSQL` • `SQLAlchemy` • `MongoDB` • `Redis` • `Memcached`  
