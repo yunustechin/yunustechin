@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 🎓 Computer Engineering student at Marmara University.  
-💼 Passionate about Full Stack Development, Backend Engineering, and Cloud Technologies.  
+💼 Passionate about Full Stack Development, Backend Engineering and Cloud Technologies.  
 🚀 Enthusiastic about exploring new technologies and building scalable **RESTful APIs, GraphQL, and gRPC services**.  
 💡 Constantly improving my problem-solving skills and learning new tools.  
 ⚡ Enjoy building **API-driven solutions** and working with **REST principles** (stateless, cacheable, CRUD operations).  
