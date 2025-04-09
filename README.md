@@ -1,35 +1,34 @@
 <h2> Hey there! I'm Yunus Emre. <img src="https://github.com/yunustechin/yunustechin/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3ODZkamU3eHFoNXRhcjUxY3M1aXJpNGZkNjVkbWIzOHJvbDJhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
-
+👨🏻‍💻 About Me  
 🎓 Computer Engineering student at Marmara University.  
-💼 Passionate about Backend Engineering, DevOPS Engineering and Cloud Technologies.  
-🚀 Enthusiastic about exploring new technologies and building scalable **RESTful APIs, GraphQL, and gRPC services**.  
-💡 Constantly improving my problem-solving skills and learning new tools.  
-⚡ Enjoy building **API-driven solutions** and working with **REST principles** (stateless, cacheable, CRUD operations).  
-☕ A strong cup of coffee fuels my creativity and focus.  
+💼 Passionate about Backend Engineering, DevOps, and Cloud Infrastructure.  
+🚀 Eager to build scalable, high-performance systems using RESTful APIs, GraphQL, and gRPC.  
+💡 Continuously improving problem-solving abilities while staying up-to-date with modern technologies.  
+⚙️ Experienced in designing API-driven solutions following REST principles (statelessness, caching, CRUD).  
+☕ Fueled by coffee and a relentless drive to learn and create.
 
----
+🛠 Tech Stack
 
-<h3> 🛠 Tech Stack </h3>
-
-**Programming Languages**  
-`Python` • `C` • `C++` • `JavaScript (ES6+)` • `Node.js`
+**Languages**  
+Python • C • C++ • JavaScript (ES6+) • Node.js
 
 **API Development**  
-`RESTful APIs` • `GraphQL` • `gRPC` • `Flask/FastAPI`
+RESTful APIs • GraphQL • gRPC • Flask • FastAPI
 
 **Databases & Caching**  
-`SQLite` • `MySQL/MariaDB` • `PostgreSQL` • `SQLAlchemy` • `MongoDB` • `Redis`
+SQLite • MySQL/MariaDB • PostgreSQL • SQLAlchemy  
+MongoDB • Redis
 
 **DevOps & Cloud**  
-`Docker` • `Kubernetes` • `Terraform` • `CI/CD (GitHub Actions, Jenkins)` • `AWS (EC2, S3, Lambda)` • `Git`  
+Docker • Kubernetes • Terraform  
+CI/CD (GitHub Actions, Jenkins)  
+AWS (EC2, S3, Lambda) • Git
 
 **Testing & Tools**  
-`Pytest` • `JUnit` • `Postman`  
+Pytest • JUnit • Postman
 
----
 
 <h3> 📊 GitHub Stats </h3>
 
