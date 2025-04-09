@@ -15,7 +15,7 @@
 <h3> 🛠 Tech Stack </h3>
 
 **Programming Languages**  
-`Python` • `C/C++` • `Java` • `HTML/CSS` • `JavaScript (ES6+)` • `Node.js`
+`Python` • `C` • `C++` • `JavaScript (ES6+)` • `Node.js`
 
 **API Development**  
 `RESTful APIs` • `GraphQL` • `gRPC` • `Flask/FastAPI`
