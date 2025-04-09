@@ -1,7 +1,8 @@
 <h2> Hey there! I'm Yunus Emre. <img src="https://github.com/yunustechin/yunustechin/blob/master/Hi.gif" width="25"></h2>
+
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3ODZkamU3eHFoNXRhcjUxY3M1aXJpNGZkNjVkbWIzOHJvbDJhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
-👨🏻‍💻 About Me  
+👨🏻‍💻 **About Me**  
 🎓 Computer Engineering student at Marmara University.  
 💼 Passionate about Backend Engineering, DevOps, and Cloud Infrastructure.  
 🚀 Eager to build scalable, high-performance systems using RESTful APIs, GraphQL, and gRPC.  
@@ -9,34 +10,34 @@
 ⚙️ Experienced in designing API-driven solutions following REST principles (statelessness, caching, CRUD).  
 ☕ Fueled by coffee and a relentless drive to learn and create.
 
-🛠 Tech Stack
+---
 
-**Languages**  
+## 🛠 Tech Stack
+
+### 🚀 Languages
 Python • C • C++ • JavaScript (ES6+) • Node.js
 
-**API Development**  
+### 🧩 API Development
 RESTful APIs • GraphQL • gRPC • Flask • FastAPI
 
-**Databases & Caching**  
+### 🗄️ Databases & Caching
 SQLite • MySQL/MariaDB • PostgreSQL • SQLAlchemy  
 MongoDB • Redis
 
-**DevOps & Cloud**  
+### ☁️ DevOps & Cloud
 Docker • Kubernetes • Terraform  
-CI/CD (GitHub Actions, Jenkins)  
-AWS (EC2, S3, Lambda) • Git
+CI/CD: GitHub Actions • Jenkins  
+AWS: EC2 • S3 • Lambda • Git
 
-**Testing & Tools**  
+### 🧪 Testing & Tools
 Pytest • JUnit • Postman
 
+---
 
 <h3> 📊 GitHub Stats </h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yunustechin&show_icons=true&theme=dark&count_private=true&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunustechin&layout=compact&theme=dark&hide_border=true" width="48%"/>
 </p>
 
