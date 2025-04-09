@@ -1,40 +1,44 @@
-<h2> Hey there! I'm Yunus Emre. <img src="https://github.com/yunustechin/yunustechin/blob/master/Hi.gif" width="25"></h2>
+<h2 align="center">Hey there! I'm Yunus Emre <img src="https://github.com/yunustechin/yunustechin/blob/master/Hi.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3ODZkamU3eHFoNXRhcjUxY3M1aXJpNGZkNjVkbWIzOHJvbDJhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
-
-👨🏻‍💻 **About Me**  
-🎓 Computer Engineering student at Marmara University.  
-💼 Passionate about Backend Engineering, DevOps, and Cloud Infrastructure.  
-🚀 Eager to build scalable, high-performance systems using RESTful APIs, GraphQL, and gRPC.  
-💡 Continuously improving problem-solving abilities while staying up-to-date with modern technologies.  
-⚙️ Experienced in designing API-driven solutions following REST principles (statelessness, caching, CRUD).  
-☕ Fueled by coffee and a relentless drive to learn and create.
+<p align="center">
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### 👨🏻‍💻 About Me
 
-### 🚀 Languages
-Python • C • C++ • JavaScript (ES6+) • Node.js
-
-### 🧩 API Development
-RESTful APIs • GraphQL • gRPC • Flask • FastAPI
-
-### 🗄️ Databases & Caching
-SQLite • MySQL/MariaDB • PostgreSQL • SQLAlchemy  
-MongoDB • Redis
-
-### ☁️ DevOps & Cloud
-Docker • Kubernetes • Terraform  
-CI/CD: GitHub Actions • Jenkins  
-AWS: EC2 • S3 • Lambda • Git
-
-### 🧪 Testing & Tools
-Pytest • JUnit • Postman
+- 🎓 Computer Engineering student at **Marmara University**  
+- 💼 Passionate about **Backend Engineering**, **DevOps**, and **Cloud Infrastructure**  
+- 🚀 Building scalable, high-performance systems with **REST**, **GraphQL**, and **gRPC**  
+- ☕ Fueled by coffee and a relentless drive to learn  
+- 💡 Always sharpening my problem-solving skills and staying updated with tech trends
 
 ---
 
-<h3> 📊 GitHub Stats </h3>
+### 🛠 Tech Stack
+
+#### 🚀 Languages
+`Python` • `C` • `C++` • `JavaScript (ES6+)` • `Node.js`
+
+#### 🧩 API Development
+`RESTful APIs` • `GraphQL` • `gRPC` • `Flask` • `FastAPI`
+
+#### 🗄️ Databases & Caching
+`SQLite` • `MySQL / MariaDB` • `PostgreSQL` • `MongoDB` • `Redis`  
+ORMs: `SQLAlchemy`
+
+#### ☁️ DevOps & Cloud
+`Docker` • `Kubernetes` • `Terraform`  
+CI/CD: `GitHub Actions` • `Jenkins`  
+Cloud: `AWS (EC2, S3, Lambda)` • `Git`
+
+#### 🧪 Testing & Tools
+`Pytest` • `JUnit` • `Postman`
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yunustechin&show_icons=true&theme=dark&count_private=true&hide_border=true" width="48%"/>
@@ -43,16 +47,16 @@ Pytest • JUnit • Postman
 
 ---
 
-<h3> 🤝 Connect with Me </h3>
+### 🤝 Connect with Me
 
 <p align="center"> 
-  <a href="https://github.com/yunustechin" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" />
+  <a href="https://github.com/yunustechin" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/github.png" width="40"/>
   </a>  
-  <a href="https://www.linkedin.com/in/yunus-emre-g%C3%BCltekin-5884b2332/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
+  <a href="https://www.linkedin.com/in/yunus-emre-g%C3%BCltekin-5884b2332/" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="40"/>
   </a>  
-  <a href="mailto:yunustechin@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" />
+  <a href="mailto:yunustechin@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="40"/>
   </a>
 </p>
