@@ -6,39 +6,39 @@
 
 ---
 
-### 👨🏻‍💻 About Me
+### About Me
 
-- 🎓 Computer Engineering student at **Marmara University**  
-- 💼 Passionate about **Backend Engineering**, **DevOps**, and **Cloud Infrastructure**  
-- 🚀 Building scalable, high-performance systems with **REST**, **GraphQL**, and **gRPC**  
-- ☕ Fueled by coffee and a relentless drive to learn  
-- 💡 Always sharpening my problem-solving skills and staying updated with tech trends
+- Computer Engineering student at **Marmara University**  
+- Passionate about **Backend Engineering**, **DevOps**, and **Cloud Infrastructure**  
+- Building scalable, high-performance systems with **REST**, **GraphQL**, and **gRPC**  
+- Fueled by coffee and a relentless drive to learn  
+- Always sharpening my problem-solving skills and staying updated with tech trends
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
-#### 🚀 Languages
+#### Languages
 `Python` • `C` • `C++` • `JavaScript (ES6+)` • `Node.js`
 
-#### 🧩 API Development
+#### API Development
 `RESTful APIs` • `GraphQL` • `gRPC` • `Flask` • `FastAPI`
 
-#### 🗄️ Databases & Caching
+#### Databases & Caching
 `SQLite` • `MySQL / MariaDB` • `PostgreSQL` • `MongoDB` • `Redis`  
 ORMs: `SQLAlchemy`
 
-#### ☁️ DevOps & Cloud
+#### DevOps & Cloud
 `Docker` • `Kubernetes` • `Terraform`  
 CI/CD: `GitHub Actions` • `Jenkins`  
 Cloud: `AWS (EC2, S3, Lambda)` • `Git`
 
-#### 🧪 Testing & Tools
+#### Testing & Tools
 `Pytest` • `JUnit` • `Postman`
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yunustechin&show_icons=true&theme=dark&count_private=true&hide_border=true" width="48%"/>
@@ -47,7 +47,7 @@ Cloud: `AWS (EC2, S3, Lambda)` • `Git`
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="center"> 
   <a href="https://github.com/yunustechin" target="_blank">
