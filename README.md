@@ -11,7 +11,6 @@
 - Computer Engineering student at **Marmara University**  
 - Passionate about **Backend Engineering**, **DevOps**, and **Cloud Infrastructure**  
 - Building scalable, high-performance systems with **REST**, **GraphQL**, and **gRPC**  
-- Fueled by coffee and a relentless drive to learn  
 - Always sharpening my problem-solving skills and staying updated with tech trends
 
 ---
@@ -19,7 +18,7 @@
 ### Tech Stack
 
 #### Languages
-`Python` • `C` • `C++` • `JavaScript (ES6+)` • `Node.js`
+`Python` • `C` • `C++` • `JavaScript` • `Node.js`
 
 #### API Development
 `RESTful APIs` • `GraphQL` • `gRPC` • `Flask` • `FastAPI`
