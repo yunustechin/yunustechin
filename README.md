@@ -11,29 +11,28 @@
 - Computer Engineering student at **Marmara University**  
 - Passionate about **Backend Engineering**, **DevOps**, and **Cloud Infrastructure**  
 - Building scalable, high-performance systems with **REST**, **GraphQL**, and **gRPC**  
-- Always sharpening my problem-solving skills and staying updated with tech trends
+- Continuously sharpening my problem-solving skills while exploring emerging backend & cloud technologies
 
 ---
 
 ### Tech Stack
 
 #### Languages
-`Python` • `C` • `C++` • `JavaScript` • `Node.js`
+`Python` • `C` • `C++` • `JavaScript (ES6+)` • `Node.js`
 
 #### API Development
 `RESTful APIs` • `GraphQL` • `gRPC` • `Flask` • `FastAPI`
 
 #### Databases & Caching
-`SQLite` • `MySQL / MariaDB` • `PostgreSQL` • `MongoDB` • `Redis`  
-ORMs: `SQLAlchemy`
+`SQLite` • `MySQL / MariaDB` • `PostgreSQL` • `MongoDB` • `Redis` • `SQLAlchemy`
 
 #### DevOps & Cloud
-`Docker` • `Kubernetes` • `Terraform`  
+Containerization & IaC: `Docker` • `Kubernetes` • `Terraform`  
 CI/CD: `GitHub Actions` • `Jenkins`  
-Cloud: `AWS (EC2, S3, Lambda)` • `Git`
+Cloud Platforms: `AWS (EC2, S3, Lambda)`  
 
 #### Testing & Tools
-`Pytest` • `JUnit` • `Postman`
+`Pytest` • `Google Test` • `Jest` • `Postman`
 
 ---
 
