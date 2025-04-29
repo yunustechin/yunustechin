@@ -18,10 +18,10 @@
 ### Tech Stack
 
 #### Languages
-`Python` • `C` • `C#` • `JavaScript (ES6+)` • `Node.js`
+`Python` • `C` • `C#` • `JavaScript (ES6+)` 
 
 #### API Development
-`RESTful APIs` • `GraphQL` • `gRPC` • `Flask` • `FastAPI`
+`RESTful APIs` • `GraphQL` • `gRPC` • `Flask` • `FastAPI` • `Node.js`
 
 #### Databases & Caching
 `SQLite` • `MySQL / MariaDB` • `PostgreSQL` • `MongoDB` • `Redis` • `SQLAlchemy`
