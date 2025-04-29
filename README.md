@@ -18,7 +18,7 @@
 ### Tech Stack
 
 #### Languages
-`Python` • `C` • `C++` • `JavaScript (ES6+)` • `Node.js`
+`Python` • `C` • `C#` • `JavaScript (ES6+)` • `Node.js`
 
 #### API Development
 `RESTful APIs` • `GraphQL` • `gRPC` • `Flask` • `FastAPI`
