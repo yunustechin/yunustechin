@@ -32,7 +32,7 @@ CI/CD: `GitHub Actions` • `Jenkins`
 Cloud Platforms: `AWS (EC2, S3, Lambda)`  
 
 #### Testing & Tools
-`Pytest` • `Google Test` • `Jest` • `Postman`
+`Pytest` • `xUnit` • `Jest` • `Postman`
 
 ---
 
