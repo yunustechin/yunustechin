@@ -21,7 +21,7 @@
 `Python` • `C` • `C#` • `JavaScript (ES6+)` 
 
 #### API Development
-`RESTful APIs` • `GraphQL` • `gRPC` • `Flask` • `FastAPI` • `Node.js`
+`RESTful APIs` • `GraphQL` • `gRPC` • `Flask / FastAPI / httpx /aiohttp` • `Node.js`
 
 #### Databases & Caching
 `SQLite` • `MySQL / MariaDB` • `PostgreSQL` • `MongoDB` • `Redis` • `SQLAlchemy`
