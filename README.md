@@ -28,7 +28,7 @@
 
 #### DevOps & Cloud
 Containerization & IaC: `Docker` • `Kubernetes` • `Terraform`  
-CI/CD: `GitHub Actions` • `Jenkins`  
+CI/CD: `GitHub Actions` • `Jenkins` • `Gitlab CI` • `Circle CI`
 Cloud Platforms: `AWS (EC2, S3, Lambda)`  
 
 #### Testing & Tools
