@@ -11,27 +11,34 @@
 - Computer Engineering student at **Marmara University**  
 - Passionate about **Backend Engineering**, **DevOps**, and **Cloud Infrastructure**  
 - Building scalable, high-performance systems with **REST**, **GraphQL**, and **gRPC**  
-- Continuously sharpening my problem-solving skills while exploring emerging backend & cloud technologies
+- Continuously improving my problem-solving skills while exploring modern backend & cloud technologies  
+- Developing robust backend services with **ASP.NET Core** and modern design principles  
+- Experienced in deploying and managing cloud-native applications using **Docker**, **Kubernetes**, and **Terraform**  
+- Hands-on with **JWT**, **Entity Framework Core**, **Clean Architecture**, **CI/CD pipelines**, **caching**, and **background processing** in .NET projects
 
 ---
 
 ### Tech Stack
 
 #### Languages
-`Python` • `C` • `C#` • `JavaScript (ES6+)` 
+`Python` • `C` • `C#(.NET 8)` • `JavaScript (ES6+)` 
 
 #### API Development
-`RESTful APIs` • `GraphQL` • `gRPC` • `Flask / FastAPI / httpx /aiohttp` • `Node.js`
+`RESTful APIs` • `GraphQL` • `gRPC (C#)` • `Flask / FastAPI / httpx /aiohttp` • `Node.js`
+
+`ASP.NET Core Web API` • `Minimal APIs` • `JWT Authentication`
 
 #### Databases & Caching
 `SQLite` • `MySQL / MariaDB` • `PostgreSQL` • `MongoDB` • `Redis` • `SQLAlchemy`
 
 #### DevOps & Cloud
-Containerization & IaC: `Docker` • `Kubernetes` • `Terraform`  
+- Containerization & IaC: `Docker` • `Kubernetes` • `Terraform`  
 
-CI/CD: `GitHub Actions` • `Jenkins` • `Gitlab CI` • `Circle CI` 
+- CI/CD: `GitHub Actions` • `Jenkins` • `Gitlab CI` • `Circle CI` 
 
-Cloud Platforms: `AWS (EC2, S3, Lambda)`  
+- Cloud Platforms: `AWS (EC2, S3, Lambda)`  
+
+- Application Lifecycle: `dotnet CLI` • `MSBuild` • `xUnit` • `OpenTelemetry (.NET)`
 
 #### Testing & Tools
 `Pytest` • `xUnit` • `Jest` • `Postman`
