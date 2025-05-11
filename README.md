@@ -33,36 +33,37 @@
 
 #### DevOps & Cloud
 - Containerization & IaC: `Docker` • `Kubernetes` • `Terraform`  
+
 - CI/CD: `GitHub Actions` • `Jenkins` • `Gitlab CI` • `Circle CI` 
+
 - Cloud Platforms: `AWS (EC2, S3, Lambda)`  
-- Application Lifecycle: `dotnet CLI` • `MSBuild` • `OpenTelemetry (.NET)`
+
+- Application Lifecycle: `dotnet CLI` • `MSBuild` • `xUnit` • `OpenTelemetry (.NET)`
 
 #### Testing & Tools
 `Pytest` • `xUnit` • `Jest` • `Postman`
 
 ---
 
-### GitHub Stats & Connect with Me
+### GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=yunustechin&show_icons=true&theme=dark&count_private=true&hide_border=true" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>Connect with Me</h3>
-      <a href="https://github.com/yunustechin" target="_blank">
-        <img src="https://img.icons8.com/plasticine/100/000000/github.png" width="40"/>
-      </a>  
-      <a href="https://www.linkedin.com/in/yunus-emre-g%C3%BCltekin-5884b2332/" target="_blank">
-        <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="40"/>
-      </a>  
-      <a href="mailto:yunustechin@gmail.com" target="_blank">
-        <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yunustechin&show_icons=true&theme=dark&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunustechin&layout=compact&theme=dark&hide_border=true" width="48%"/>
+</p>
 
 ---
+
+### Connect with Me
+
+<p align="center"> 
+  <a href="https://github.com/yunustechin" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/github.png" width="40"/>
+  </a>  
+  <a href="https://www.linkedin.com/in/yunus-emre-g%C3%BCltekin-5884b2332/" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="40"/>
+  </a>  
+  <a href="mailto:yunustechin@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="40"/>
+  </a>
+</p>
