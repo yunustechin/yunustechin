@@ -24,7 +24,7 @@
 `Python` • `C` • `C#(.NET 8)` • `JavaScript (ES6+)` 
 
 #### API Development
-`RESTful APIs` • `GraphQL` • `gRPC (C#)` • `Flask / FastAPI / httpx /aiohttp` • `Node.js`
+`RESTful APIs` • `GraphQL` • `gRPC (C#)` • `Flask / FastAPI / httpx /aiohttp` • `Node.js` • `Express.js (Middleware)` 
 
 `ASP.NET Core Web API` • `Minimal APIs` • `JWT Authentication`
 
