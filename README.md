@@ -19,8 +19,7 @@ I implement and maintain CI/CD pipelines, leverage Git and GitHub for efficient 
 `REST` • `GraphQL` • `gRPC` • `JWT Auth`
 
 #### Databases
-`PostgreSQL` • `MySQL / MariaDB` • `SQLite` • `MongoDB` • `Redis`  
-`SQLAlchemy`
+`PostgreSQL` • `MySQL` •`MariaDB` • `SQLite` • `MongoDB` • `Redis` •`SQLAlchemy`
 
 #### DevOps & Cloud
 `Docker` • `Kubernetes` • `Terraform`  
