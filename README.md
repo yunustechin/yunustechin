@@ -12,22 +12,29 @@ I implement and maintain CI/CD pipelines, leverage Git and GitHub for efficient 
 ### Tech Stack
 
 #### Languages
-`Python` • `C` • `C# (.NET Core)` • `JavaScript (ES6+)`
+`Python` • `C` • `C#` • `JavaScript`
 
-#### Backend Development
-`ASP.NET Core` • `Flask / FastAPI` • `Node.js / Express.js`  
-`REST` • `GraphQL` • `gRPC` • `JWT Auth`
+#### Frameworks & Libraries:
+`Node.js` • `Express.js` • `fastapi` • `flask` • `.NET`  
+`REST` • `GraphQL` • `gRPC` • `JWT` • `httpx` • `Electron`
 
-#### Databases
-`PostgreSQL` • `MySQL` •`MariaDB` • `SQLite` • `MongoDB` • `Redis` •`SQLAlchemy`
+#### Databases & ORMs
+`PostgreSQL` • `MySQL` • `MariaDB` • `SQLite`  
+`MongoDB` • `Redis`  
+`SQLAlchemy` • `Entity Framework`
 
 #### DevOps & Cloud
 `Docker` • `Kubernetes` • `Terraform`  
 `AWS (EC2, S3, Lambda)`  
-`GitHub Actions` • `GitLab CI` • `Jenkins` • `CircleCI`
+`GitHub Actions` • `GitLab CI` • `Jenkins`
 
-#### Testing
-`Unit Testing` • `API Testing` • `xUnit` • `PyTest` • `JTest`
+#### Event-Driven Architecture & Messaging
+`RabbitMQ` • `Apache Kafka` • `Redis Pub/Sub`    
+`WebSocket` • `Socket.IO`
+
+#### Testing & CI/CD
+`Unit Testing` • `API Testing` • `Jest` • `xUNİT` • `Pytest`  
+`CI/CD Pipelines` (GitHub Actions, GitLab CI, Jenkins)
 
 ---
 
