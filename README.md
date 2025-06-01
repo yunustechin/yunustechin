@@ -15,8 +15,8 @@ I implement and maintain CI/CD pipelines, leverage Git and GitHub for efficient 
 `Python` • `C` • `C#` • `JavaScript`
 
 #### Frameworks & Libraries:
-`Node.js` • `Express.js` • `fastapi` • `flask` • `.NET`  
-`REST` • `GraphQL` • `gRPC` • `JWT` • `httpx` • `Electron`
+`.NET` • `Node.js` • `Express.js` • `fastapi/flask/Django/httpx` 
+`REST` • `GraphQL` • `gRPC` • `JWT` • `Electron`
 
 #### Databases & ORMs
 `PostgreSQL` • `MySQL` • `MariaDB` • `SQLite`  
