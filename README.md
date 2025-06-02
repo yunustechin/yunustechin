@@ -26,15 +26,15 @@ I implement and maintain CI/CD pipelines, leverage Git and GitHub for efficient 
 #### DevOps & Cloud
 `Docker` • `Kubernetes` • `Terraform`  
 `AWS (EC2, S3, Lambda)`  
-`GitHub Actions` • `GitLab CI` • `Jenkins`
+`GitHub Actions` • `GitLab CI` • `Jenkins` • `CI/CD Pipelines`
 
 #### Event-Driven Architecture & Messaging
 `RabbitMQ` • `Apache Kafka` • `Redis Pub/Sub`    
 `WebSocket` • `Socket.IO`
 
-#### Testing & CI/CD
-`Unit Testing` • `API Testing` • `Jest` • `xUNİT` • `Pytest`  
-`CI/CD Pipelines` (GitHub Actions, GitLab CI, Jenkins)
+#### Testing & Automation
+`Unit Testing` • `API Testing` • `Jest` • `xUnit` • `Pytest`  
+`Test Automation in CI/CD Pipelines`
 
 ---
 
