@@ -26,7 +26,7 @@ Computer Engineering student at Marmara University with a strong focus on backen
 `GitHub Actions` • `GitLab CI` • `Jenkins` • `CI/CD Pipelines`
 
 #### Monitoring & Observability
-`Prometheus.io` • `Grafana` • `Elasticsearch`
+`Prometheus.io` • `Grafana` • `ELK Stack`
 
 #### Event-Driven Architecture & Messaging
 `RabbitMQ` • `Apache Kafka` • `Redis Pub/Sub`    
