@@ -17,7 +17,7 @@ Computer Engineering student at Marmara University with a strong focus on backen
 
 #### Databases
 `PostgreSQL` • `MySQL` • `MariaDB` • `SQLite`  
-`MongoDB` • `Redis`  • `Lua` 
+`MongoDB` • `Redis`  • `Lua`  
 `QuestDB` • `SQLAlchemy` • `Entity Framework`
 
 #### DevOps & Cloud
