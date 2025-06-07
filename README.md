@@ -2,10 +2,7 @@
 
 ### About Me
 
-I'm a Computer Engineering student at Marmara University, passionate about backend development and DevOps. I actively build scalable backend solutions and continuously improve my DevOps skills through hands-on projects involving Docker, Kubernetes, AWS, and Terraform.
-
-I implement and maintain CI/CD pipelines, leverage Git and GitHub for efficient version control, and ensure code quality by applying thorough unit testing and API testing. I’m comfortable working with both SQL and NoSQL databases, always aiming to deliver reliable and maintainable software.
-
+Computer Engineering student at Marmara University with a strong focus on backend development and DevOps. Skilled in designing scalable, event-driven architectures using message queues, containers, and orchestration tools. Experienced in managing cloud infrastructure through Infrastructure as Code (IaC), automating CI/CD pipelines, conducting thorough testing, and ensuring system stability via observability and monitoring practices. 
 
 ---
 
@@ -18,15 +15,18 @@ I implement and maintain CI/CD pipelines, leverage Git and GitHub for efficient 
 `.NET` • `Node.js` • `Express.js` • `fastapi/flask/django/httpx`  
 `REST` • `GraphQL` • `gRPC` • `JWT` • `Electron`
 
-#### Databases & ORMs
+#### Databases
 `PostgreSQL` • `MySQL` • `MariaDB` • `SQLite`  
-`MongoDB` • `Redis`  
-`SQLAlchemy` • `Entity Framework`
+`MongoDB` • `Redis`  • `Lua` 
+`QuestDB` • `SQLAlchemy` • `Entity Framework`
 
 #### DevOps & Cloud
-`Docker` • `Kubernetes` • `Terraform`  
+`Docker` • `Docker Swarm` • `Kubernetes` • `Terraform`  
 `AWS (EC2, S3, Lambda)`  
 `GitHub Actions` • `GitLab CI` • `Jenkins` • `CI/CD Pipelines`
+
+#### Monitoring & Observability
+`Prometheus.io` • `Grafana` • `Elasticsearch`
 
 #### Event-Driven Architecture & Messaging
 `RabbitMQ` • `Apache Kafka` • `Redis Pub/Sub`    
