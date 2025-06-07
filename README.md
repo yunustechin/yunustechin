@@ -21,7 +21,7 @@ Computer Engineering student at Marmara University with a strong focus on backen
 `QuestDB` • `SQLAlchemy` • `Entity Framework`
 
 #### DevOps & Cloud
-`Docker` • `Docker Swarm` • `Kubernetes` • `Terraform`  
+`Docker` • `Kubernetes` • `Terraform`  
 `AWS (EC2, S3, Lambda)`  
 `GitHub Actions` • `GitLab CI` • `Jenkins` • `CI/CD Pipelines`
 
