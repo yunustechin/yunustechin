@@ -22,15 +22,14 @@ Computer Engineering student at Marmara University with a strong focus on backen
 
 #### DevOps & Cloud
 `Docker` • `Kubernetes` • `Terraform`  
-`AWS (EC2, S3, Lambda)`  
+`Ansible` • `AWS` 
 `GitHub Actions` • `GitLab CI` • `Jenkins` • `CI/CD Pipelines`
 
 #### Monitoring & Observability
 `Prometheus.io` • `Grafana` • `ELK Stack`
 
-#### Event-Driven Architecture & Messaging
-`RabbitMQ` • `Apache Kafka` • `Redis Pub/Sub`    
-`WebSocket` • `Socket.IO`
+#### Event-Driven Architecture
+`RabbitMQ` • `Apache Kafka` • `Redis Pub/Sub` 
 
 #### Testing & Automation
 `Unit Testing` • `API Testing` • `Jest` • `xUnit` • `Pytest`  
