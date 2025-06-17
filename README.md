@@ -13,12 +13,12 @@ Computer Engineering student at Marmara University with a strong focus on backen
 
 #### Frameworks & Libraries:
 `.NET` • `Node.js` • `Express.js` • `fastapi/flask/django/httpx`  
-`REST` • `GraphQL` • `gRPC` • `JWT` • `Electron`
+`REST` • `GraphQL` • `JWT` • `Electron`
 
 #### Databases
 `PostgreSQL` • `MySQL` • `MariaDB` • `SQLite`  
 `MongoDB` • `Redis`  • `Lua`  
-`QuestDB` • `SQLAlchemy` • `Entity Framework`
+`SQLAlchemy` • `Entity Framework`
 
 #### DevOps & Cloud
 `Docker` • `Kubernetes` • `Terraform`  
