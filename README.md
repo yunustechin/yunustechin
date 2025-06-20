@@ -21,7 +21,7 @@ Computer Engineering student at Marmara University with a strong focus on backen
 `SQLAlchemy` • `Entity Framework`
 
 #### DevOps & Cloud
-`Docker` • `Kubernetes` • `Terraform` • `AWS` 
+`Docker` • `Kubernetes` • `Terraform` • `AWS`  
 `GitHub Actions` • `CI/CD Pipelines`
 
 #### Monitoring & Observability
