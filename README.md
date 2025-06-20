@@ -13,7 +13,7 @@ Computer Engineering student at Marmara University with a strong focus on backen
 
 #### Frameworks & Libraries:
 `.NET` • `Node.js` • `Express.js` • `fastapi/flask/django/httpx`  
-`REST` • `GraphQL` • `JWT` • `Electron`
+`REST` • `GraphQL` • `JWT` 
 
 #### Databases
 `PostgreSQL` • `MySQL` • `MariaDB` • `SQLite`  
@@ -21,15 +21,14 @@ Computer Engineering student at Marmara University with a strong focus on backen
 `SQLAlchemy` • `Entity Framework`
 
 #### DevOps & Cloud
-`Docker` • `Kubernetes` • `Terraform`  
-`Ansible` • `AWS` 
-`GitHub Actions` • `GitLab CI` • `Jenkins` • `CI/CD Pipelines`
+`Docker` • `Kubernetes` • `Terraform` • `AWS` 
+`GitHub Actions` • `CI/CD Pipelines`
 
 #### Monitoring & Observability
-`Prometheus.io` • `Grafana` • `ELK Stack`
+`Prometheus.io` • `Grafana`
 
 #### Event-Driven Architecture
-`RabbitMQ` • `Apache Kafka` • `Redis Pub/Sub` 
+`RabbitMQ` • `Apache Kafka`
 
 #### Testing & Automation
 `Unit Testing` • `API Testing` • `Jest` • `xUnit` • `Pytest`  
