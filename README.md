@@ -2,7 +2,7 @@
 
 ### About Me
 
-Computer Engineering student at Marmara University with a strong focus on backend development and DevOps. Skilled in designing scalable, event-driven architectures using message queues, containers, and orchestration tools. Experienced in managing cloud infrastructure through Infrastructure as Code (IaC), automating CI/CD pipelines, conducting thorough testing, and ensuring system stability via observability and monitoring practices. 
+Computer Engineering student with a strong passion for backend development. Skilled in building robust APIs using modern frameworks and writing clean, testable code. Focused on scalable architecture and performance-driven design.
 
 ---
 
@@ -16,15 +16,12 @@ Computer Engineering student at Marmara University with a strong focus on backen
 `REST` • `GraphQL` • `JWT` 
 
 #### Databases
-`PostgreSQL` • `MySQL` • `MariaDB` • `SQLite`  
-`MongoDB` • `Redis`  • `Lua`  
+`MySQL` • `MariaDB` • `SQLite`  
+`Redis`  • `Lua`  
 `SQLAlchemy` • `Entity Framework`
 
-#### DevOps & Cloud
-`Docker` • `Kubernetes` • `Terraform` • `AWS`  
-`GitHub Actions` • `CI/CD Pipelines`  
-`Prometheus.io` • `Grafana`  
-`RabbitMQ`
+#### DevOps & Testing
+`Docker` • `GitHub Actions` • `CI/CD Pipelines`  
 
 #### Testing & Automation
 `Unit Testing` • `API Testing` • `Jest` • `xUnit` • `Pytest`  
