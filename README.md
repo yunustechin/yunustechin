@@ -2,7 +2,7 @@
 
 ### About Me
 
-Computer Engineering student with a strong passion for backend development. Skilled in building robust APIs using modern frameworks and writing clean, testable code. Focused on scalable architecture and performance-driven design.
+I’m a Computer Engineering student with a strong interest in backend development and system design. I focus on building reliable, maintainable software with clean architecture and solid testing practices. I enjoy working on performance optimization, efficient data handling, and creating systems that scale smoothly under load. Writing clear, purposeful code and solving real-world problems through software is what drives me.
 
 ---
 
