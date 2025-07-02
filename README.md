@@ -2,30 +2,33 @@
 
 ### About Me
 
-I’m a Computer Engineering student with a strong interest in backend development and system design. I focus on building reliable, maintainable software with clean architecture and solid testing practices. I enjoy working on performance optimization, efficient data handling, and creating systems that scale smoothly under load. Writing clear, purposeful code and solving real-world problems through software is what drives me.
+Computer Engineering student at Marmara University focused on writing clean, maintainable, and scalable code. Skilled in software architecture, design patterns, and automation for building robust applications. Experienced in cloud-native development, infrastructure as code, containerization, microservices, observability, CI/CD pipelines, and cross-platform application development targeting diverse environments. Delivering reliable, efficient, and high-quality software solutions.
 
 ---
 
 ### Tech Stack
 
-#### Languages
-`Python` • `C` • `C#` • `JavaScript`
+#### Languages & Frameworks  
+`Python` • `C` • `C#` • `JavaScript` • `.NET` • `React` • `React Native` • `Node.js`
 
-#### Frameworks & Libraries:
-`.NET` • `Node.js` • `Express.js` • `fastapi/flask/django/httpx`  
-`REST` • `GraphQL` • `JWT` 
+#### Backend & API  
+`REST` • `GraphQL` • `gRPC` • `Express.js` • `Next.js`  
 
-#### Databases
-`MySQL` • `MariaDB` • `SQLite`  
-`Redis`  • `Lua`  
-`SQLAlchemy` • `Entity Framework`
+#### Databases & Caching  
+`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Entity Framework` • `Dapper`
 
-#### DevOps & Testing
-`Docker` • `GitHub Actions` • `CI/CD Pipelines`  
+#### DevOps & Cloud  
+`Docker` • `Kubernetes` • `Terraform` • `AWS` • `CI/CD` (GitHub Actions, Jenkins)
 
-#### Testing & Automation
-`Unit Testing` • `API Testing` • `Jest` • `xUnit` • `Pytest`  
-`Test Automation in CI/CD Pipelines`
+#### Testing & Quality  
+`Unit Testing` • `Integration Testing` • `End-to-End Testing` • `Jest` • `xUnit` • `Pytest`
+
+#### Observability & Messaging  
+`Prometheus` • `Grafana` • `OpenTelemetry` • `RabbitMQ` • `Apache Kafka`
+
+#### Frontend & UI  
+`HTML5` • `CSS` • `Tailwind CSS` • `Electron`
+`Material UI` • `Redux Toolkit` • `Context API`
 
 ---
 
