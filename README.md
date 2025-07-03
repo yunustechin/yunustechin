@@ -24,7 +24,7 @@ Computer Engineering student at Marmara University focused on writing clean, mai
 `Unit Testing` • `Integration Testing` • `End-to-End Testing` • `Jest` • `xUnit` • `Pytest`
 
 #### Observability & Messaging  
-`Prometheus` • `Grafana` • `OpenTelemetry` • `RabbitMQ` • `Apache Kafka`
+`Prometheus` • `Grafana` • `OpenTelemetry` • `RabbitMQ` • `Apache Kafka` • `ELK Stack`
 
 #### Frontend & UI  
 `HTML5` • `CSS` • `Tailwind CSS` • `Electron`
