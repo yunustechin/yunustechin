@@ -6,19 +6,22 @@ Computer Engineering student at Marmara University focused on writing clean, mai
 
 ---
 
-### Tech Stack
+### What I Work With
 
-#### Languages & Frameworks  
-`Python` • `C` • `C#` • `JavaScript` • `.NET` • `React` • `React Native` • `Node.js`
+#### Languages  
+`Python` • `C` • `C#` • `JavaScript`
 
-#### Backend & API  
-`REST` • `GraphQL` • `gRPC` • `Express.js` • `Next.js`  
+#### Frameworks & Runtimes  
+`.NET` • `Node.js` • `Express.js` • `React` • `React Native` • `Next.js`
 
-#### Databases & Caching  
+#### API Protocols  
+`REST` • `GraphQL` • `gRPC` • `SOAP`
+
+#### Databases & Caching & ORMs  
 `PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Entity Framework` • `Dapper`
 
 #### DevOps & Cloud  
-`Docker` • `Kubernetes` • `Terraform` • `AWS` • `CI/CD` (GitHub Actions, Jenkins)
+`Docker` • `Kubernetes` • `Terraform` • `Vault` • `AWS` • `CI/CD` (GitHub Actions, Jenkins)
 
 #### Testing & Quality  
 `Unit Testing` • `Integration Testing` • `End-to-End Testing` • `Jest` • `xUnit` • `Pytest`
@@ -27,7 +30,7 @@ Computer Engineering student at Marmara University focused on writing clean, mai
 `Prometheus` • `Grafana` • `OpenTelemetry` • `RabbitMQ` • `Apache Kafka` • `ELK Stack`
 
 #### Frontend & UI  
-`HTML5` • `CSS` • `Tailwind CSS` • `Electron`
+`HTML5` • `CSS` • `Tailwind CSS` • `Electron`   
 `Material UI` • `Redux Toolkit` • `Context API`
 
 ---
