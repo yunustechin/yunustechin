@@ -18,7 +18,7 @@ Computer Engineering student at Marmara University focused on writing clean, mai
 `REST` • `GraphQL` • `gRPC` • `SOAP`
 
 #### Databases & Caching & ORMs  
-`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Entity Framework` • `Dapper`
+`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Entity Framework` • `Dapper` • `SQLAlchemy`
 
 #### DevOps & Cloud  
 `Docker` • `Kubernetes` • `Terraform` • `Vault` • `AWS` • `CI/CD` (GitHub Actions, Jenkins)
