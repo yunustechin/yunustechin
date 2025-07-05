@@ -17,14 +17,14 @@ Computer Engineering student at Marmara University with a strong focus on full s
 `REST` • `GraphQL`
 
 #### Databases & Caching & ORMs  
-`PostgreSQL` • `MySQL` • `Redis`
+`PostgreSQL` • `MySQL` • `Redis`  
 `Entity Framework` • `Dapper` • `SQLAlchemy`
 
 #### DevOps & Cloud  
 `Docker` • `Firebase` •`Supabase`
 
 #### Testing & Quality  
-`Unit Testing` • `Integration Testing` • `End-to-End Testing` 
+`Unit Testing` • `Integration Testing` • `End-to-End Testing`   
 `Jest` • `xUnit` • `Pytest`
 
 #### Frontend & UI  
