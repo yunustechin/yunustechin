@@ -2,7 +2,7 @@
 
 ### About Me
 
-Computer Engineering student at Marmara University focused on writing clean, maintainable, and scalable code. Skilled in software architecture, design patterns, and automation for building robust applications. Experienced in cloud-native development, infrastructure as code, containerization, microservices, observability, CI/CD pipelines, and cross-platform application development targeting diverse environments. Delivering reliable, efficient, and high-quality software solutions.
+Computer Engineering student at Marmara University with a strong focus on full stack development. I build reliable backend systems, craft responsive user interfaces, and integrate modern APIs. My work includes database design, testing practices, and deployment workflows. I'm particularly interested in DevOps principles, cloud platforms, and automation to improve development efficiency and scalability.
 
 ---
 
@@ -11,23 +11,21 @@ Computer Engineering student at Marmara University focused on writing clean, mai
 #### Languages  
 `Python` • `C` • `C#` • `JavaScript`
 
-#### Frameworks & Runtimes  
-`.NET` • `Node.js` • `Express.js` • `React` • `React Native` • `Next.js`
-
-#### API Protocols  
-`REST` • `GraphQL` • `gRPC` • `SOAP`
+#### Frameworks & API  
+`.NET` • `Node.js` • `Express.js`  
+`React` • `React Native` • `Next.js`  
+`REST` • `GraphQL`
 
 #### Databases & Caching & ORMs  
-`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Entity Framework` • `Dapper` • `SQLAlchemy`
+`PostgreSQL` • `MySQL` • `Redis`
+`Entity Framework` • `Dapper` • `SQLAlchemy`
 
 #### DevOps & Cloud  
-`Docker` • `Kubernetes` • `Terraform` • `Vault` • `AWS` • `CI/CD` (GitHub Actions, Jenkins)
+`Docker` • `Firebase` •`Supabase`
 
 #### Testing & Quality  
-`Unit Testing` • `Integration Testing` • `End-to-End Testing` • `Jest` • `xUnit` • `Pytest`
-
-#### Observability & Messaging  
-`Prometheus` • `Grafana` • `OpenTelemetry` • `RabbitMQ` • `Apache Kafka` • `ELK Stack`
+`Unit Testing` • `Integration Testing` • `End-to-End Testing` 
+`Jest` • `xUnit` • `Pytest`
 
 #### Frontend & UI  
 `HTML5` • `CSS` • `Tailwind CSS` • `Electron`   
