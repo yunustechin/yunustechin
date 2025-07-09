@@ -21,7 +21,7 @@ Computer Engineering student at Marmara University with a strong focus on full s
 `Entity Framework` • `Dapper` • `SQLAlchemy`
 
 #### DevOps & Cloud  
-`Docker` • `Firebase` •`Supabase`
+`Docker` • `Firebase` •`Supabase` •`Heroku`
 
 #### Testing & Quality  
 `Unit Testing` • `Integration Testing` • `End-to-End Testing`   
