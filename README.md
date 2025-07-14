@@ -2,7 +2,7 @@
 
 ### About Me
 
-Computer Engineering student at Marmara University with a strong focus on full stack development. I build reliable backend systems, craft responsive user interfaces, and integrate modern APIs. My work includes database design, testing practices, and deployment workflows. I'm particularly interested in DevOps principles, cloud platforms, and automation to improve development efficiency and scalability.
+Computer Engineering student at Marmara University with a strong focus on full stack development. I build reliable backend systems, craft responsive user interfaces, and integrate modern APIs. My work includes database design, testing practices, and deployment workflows. I’m at an early stage in DevOps, actively learning to master principles that boost development efficiency and scalability, especially in cloud environments and automation. Proficient in technical English (B2), with strong documentation and communication skills.
 
 ---
 
