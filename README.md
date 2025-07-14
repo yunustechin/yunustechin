@@ -9,7 +9,7 @@ Marmara University Computer Engineering student with a dedicated focus on full-s
 ### What I Work With
 
 #### Languages  
-`Python` • `C` • `C#` • `JavaScript`
+`Python` • `C` • `C#` • `JavaScript` • `TypeScript`
 
 #### Frameworks & API  
 `.NET` • `Node.js` • `Express.js` • `FastAPI/Flask/httpx`  
