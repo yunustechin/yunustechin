@@ -12,7 +12,7 @@ Computer Engineering student at Marmara University with a strong focus on full s
 `Python` • `C` • `C#` • `JavaScript`
 
 #### Frameworks & API  
-`.NET` • `Node.js` • `Express.js` • `FastAPI/Flask/httpx`
+`.NET` • `Node.js` • `Express.js` • `FastAPI/Flask/httpx`  
 `React` • `React Native` • `Next.js`  
 `REST` • `GraphQL`
 
