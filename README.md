@@ -17,7 +17,7 @@ Computer Engineering student at Marmara University with a strong focus on full s
 `RESTful APIs` • `GraphQL`
 
 #### Databases, ORM & Caching
-`PostgreSQL` • `MySQL` • `Redis`  
+`PostgreSQL` • `MySQL` • `Redis` • `MongoDB`   
 `Entity Framework` • `Dapper` • `SQLAlchemy`
 
 #### DevOps & Cloud Platforms
