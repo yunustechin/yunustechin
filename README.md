@@ -8,27 +8,30 @@ Marmara University Computer Engineering student with a dedicated focus on full-s
 
 ### What I Work With
 
-#### Languages  
+#### Programming Languages
 `Python` • `C` • `C#` • `JavaScript` • `TypeScript`
 
-#### Frameworks & API  
-`.NET` • `Node.js` • `Express.js` • `FastAPI/Flask/httpx`  
-`React` • `React Native` • `Next.js`  
-`REST` • `GraphQL`
+#### Backend Development
+`.NET Core` • `Node.js` • `Express.js`  
+`FastAPI` • `Flask` • `httpx`  
+`RESTful APIs` • `GraphQL`
 
-#### Databases & Caching & ORMs  
+#### Databases, ORM & Caching
 `PostgreSQL` • `MySQL` • `Redis`  
 `Entity Framework` • `Dapper` • `SQLAlchemy`
 
-#### DevOps & Cloud  
-`Docker` • `Firebase` •`Supabase` •`Heroku`
+#### DevOps & Cloud Platforms
+`Docker` • `Firebase` • `Supabase` • `Heroku`  
+*(Currently learning WebSockets, RabbitMQ, Apache Kafka, ELK Stack, Prometheus, Grafana,   
+OpenTelemetry, AWS, Kubernetes, Terraform, CI/CD(Github Actions, Jenkins), SOAP & Vault)*
 
-#### Testing & Quality  
-`Unit Testing` • `Integration Testing` • `End-to-End Testing`   
-`Jest` • `xUnit` • `Pytest`
+#### Testing & QA
+`Unit Testing` • `Integration Testing` • `End-to-End Testing`  
+`xUnit` • `Pytest` • `Jest`
 
-#### Frontend & UI  
-`HTML5` • `CSS` • `Tailwind CSS` • `Electron`   
+#### Frontend & UI Development
+`React` • `Next.js` • `React Native` • `Electron`  
+`HTML5` • `CSS3` • `Tailwind CSS`  
 `Material UI` • `Redux Toolkit` • `Context API`
 
 ---
