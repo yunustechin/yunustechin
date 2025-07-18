@@ -14,7 +14,7 @@ Computer Engineering student at Marmara University with a strong foundation in f
 #### Backend Development
 `.NET Core` • `Node.js` • `Express.js`  
 `FastAPI` • `Flask` • `httpx`  
-`RESTful APIs` • `GraphQL`
+`RESTful APIs` • `GraphQL` • `gRPC`
 
 #### Databases, ORM & Caching
 `PostgreSQL` • `MySQL` • `Redis` • `MongoDB`   
