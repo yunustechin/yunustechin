@@ -2,7 +2,7 @@
 
 ### About Me
 
-Computer Engineering student at Marmara University with a strong foundation in full-stack development. I design scalable backend systems, build responsive user interfaces, and develop reliable application workflows. My work involves clean architecture, structured testing, and smooth deployment processes. I'm currently expanding my skills in modern development practices and system operations, aiming to enhance software efficiency, reliability, and maintainability. I'm also taking steps into the field of artificial intelligence, combining engineering principles with data-driven problem solving.
+Computer Engineering student at Marmara University with a strong foundation in full-stack development. I design scalable backend systems, build responsive user interfaces, and develop reliable application workflows. My work involves clean architecture, structured testing, and smooth deployment processes. I'm currently expanding my skills in modern development practices and system operations, aiming to enhance software efficiency, reliability, and maintainability. I'm also taking steps into the field of AI, combining engineering principles with data-driven problem solving.
 
 ---
 
@@ -22,8 +22,7 @@ Computer Engineering student at Marmara University with a strong foundation in f
 
 #### DevOps & Cloud Platforms
 `Docker` • `Firebase` • `Supabase` • `Heroku`  
-*(Currently learning WebSockets, RabbitMQ, Apache Kafka, ELK Stack, Prometheus, Grafana,   
-OpenTelemetry, AWS, Kubernetes, Terraform, CI/CD(Github Actions, Jenkins), SOAP & Vault)*
+*(Currently learning WebSockets, RabbitMQ, Apache Kafka, Prometheus, Grafana, AWS, Kubernetes, Terraform, CI/CD(Github Actions), Vault)*
 
 #### Testing & QA
 `Unit Testing` • `Integration Testing` • `End-to-End Testing`  
