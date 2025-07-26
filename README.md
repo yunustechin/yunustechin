@@ -2,36 +2,41 @@
 
 ### About Me
 
-I'm a Computer Engineering student at Marmara University, skilled in full-stack development. I design scalable back-end systems, create responsive user interfaces, and develop reliable application workflows. My work encompasses clean architecture, structured testing, and seamless deployment processes. I'm currently developing my skills in modern development practices and systems operations (DevOps), aiming to increase software efficiency, reliability, and maintainability. I'll also focus on the field of AI, combining engineering principles with data-driven problem solving. 
+I'm a Computer Engineering student at Marmara University with strong full-stack development skills. I build scalable back-end systems, craft responsive user interfaces, and design reliable application workflows. My work emphasizes clean architecture, structured testing, and smooth deployment pipelines. I'm currently advancing my knowledge in deployment operations and AI/ML.
 
 ---
 
 ### What I Work With
 
 #### Programming Languages
-`Python` • `C` • `C#` • `JavaScript` • `TypeScript`
+`Python` • `C` • `JavaScript` • `TypeScript`   
+*(Currently learning C++.)*
 
-#### Backend Development
-`.NET Core` • `Node.js` • `Express.js`  
+#### Frontend & UI Development
+`React` • `React Native` • `Electron`  
+`HTML5` • `CSS3` • `Tailwind CSS`  
+`Material UI` • `Redux Toolkit` • `Context API`
+
+#### Backend Ecosystem
+`Node.js` • `Express.js` • `Next.js`  
 `FastAPI` • `Flask` • `httpx`  
-`RESTful APIs` • `GraphQL` • `gRPC`
+`REST APIs` • `GraphQL`   
+`PostgreSQL` • `MySQL` • `MongoDB`   
+`Redis` • `SQLAlchemy`
 
-#### Databases, ORM & Caching
-`PostgreSQL` • `MySQL` • `Redis` • `MongoDB`   
-`Entity Framework` • `Dapper` • `SQLAlchemy`
+#### AI & Machine Learning
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-Learn`    
+*(Currently learning machine learning, computer vision, deep learning, NLP, LLMs, generative AI, AutoML, and MLOps.)*
 
 #### DevOps & Cloud Platforms
 `Docker` • `Firebase` • `Supabase` • `Heroku`  
-*(Currently learning WebSockets, RabbitMQ, Apache Kafka, Prometheus, Grafana, AWS, Kubernetes, Terraform, CI/CD(Github Actions), Vault)*
+*(Currently exploring real-time systems, observability tools, cloud platforms, and infrastructure as code.)*
 
 #### Testing & QA
 `Unit Testing` • `Integration Testing` • `End-to-End Testing`  
-`xUnit` • `Pytest` • `Jest`
+`xUnit` • `Pytest` • `Jest`   
+*(Currently learning CI/CD concepts and automation.)*
 
-#### Frontend & UI Development
-`React` • `Next.js` • `React Native` • `Electron`  
-`HTML5` • `CSS3` • `Tailwind CSS`  
-`Material UI` • `Redux Toolkit` • `Context API`
 
 ---
 
