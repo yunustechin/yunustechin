@@ -29,7 +29,7 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 *(Currently learning machine learning, computer vision, deep learning, NLP, LLMs, generative AI, AutoML, and MLOps.)*
 
 #### DevOps & Cloud Platforms
-`Docker` • `Firebase` • `Heroku` • `Nginx`
+`Docker` • `Firebase` • `Heroku` • `Nginx`    
 *(Currently exploring real-time systems, observability tools, cloud platforms, and infrastructure as code.)*
 
 #### Testing & QA
