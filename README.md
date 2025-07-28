@@ -29,12 +29,12 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 *(Currently learning machine learning, computer vision, deep learning, NLP, LLMs, generative AI, AutoML, and MLOps.)*
 
 #### DevOps & Cloud Platforms
-`Docker` • `Firebase` • `Supabase` • `Heroku`  
+`Docker` • `Firebase` • `Heroku` • `Nginx`
 *(Currently exploring real-time systems, observability tools, cloud platforms, and infrastructure as code.)*
 
 #### Testing & QA
 `Unit Testing` • `Integration Testing` • `End-to-End Testing`  
-`xUnit` • `Pytest` • `Jest`   
+`Pytest` • `Jest`   
 *(Currently learning CI/CD concepts and automation.)*
 
 
