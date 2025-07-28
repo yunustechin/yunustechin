@@ -33,8 +33,8 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 *(Currently exploring real-time systems, observability tools, cloud platforms, and infrastructure as code.)*
 
 #### Testing & QA
-`Unit Testing` • `Integration Testing` • `End-to-End Testing`  
-`Pytest` • `Jest`   
+`Unit Testing(Pytest, Jest)` • `Integration Testing(Postman)`
+`End-to-End Testing(Jest, Playwright)`  
 *(Currently learning CI/CD concepts and automation.)*
 
 
