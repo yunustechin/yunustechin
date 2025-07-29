@@ -10,7 +10,7 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 
 #### Programming Languages
 `Python` • `C` • `JavaScript` • `TypeScript`   
-*(Currently learning C++.)*
+*(Currently learning C++)*
 
 #### Frontend & UI Development
 `React` • `React Native` • `Electron`  
@@ -25,17 +25,17 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 `Redis` • `SQLAlchemy`
 
 #### AI & Machine Learning
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-Learn`    
-*(Currently learning machine learning, computer vision, deep learning, NLP, LLMs, generative AI, AutoML, and MLOps.)*
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn`    
+*(Currently learning machine learning, computer vision, deep learning, NLP, LLMs and MLOps.)*
 
 #### DevOps & Cloud Platforms
 `Docker` • `Firebase` • `Heroku` • `Nginx`    
-*(Currently exploring real-time systems, observability tools, cloud platforms, and infrastructure as code.)*
+*(Currently learning: CI/CD, observability, infrastructure as code, and cloud deployment strategies.)*
 
 #### Testing & QA
 `Unit Testing(Pytest, Jest)` • `Integration Testing(Postman)`      
 `End-to-End Testing(Jest, Playwright)`  
-*(Currently learning CI/CD concepts and automation.)*
+*(Actively improving my automation and CI/CD test coverage.)*
 
 
 ---
