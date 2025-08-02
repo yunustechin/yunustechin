@@ -17,11 +17,9 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 `Material UI` • `Redux Toolkit` • `Context API`
 
 #### Backend Ecosystem
-`Node.js` • `Express.js` • `Next.js`  
-`FastAPI` • `Flask` • `httpx`  
-`REST APIs` • `GraphQL`   
-`PostgreSQL` • `MySQL` • `MongoDB`   
-`Redis` • `SQLAlchemy`
+`Node.js` • `Express.js` • `Next.js` `FastAPI/Flask/httpx`  
+`REST APIs` • `GraphQL` • `SQLAlchemy`   
+`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` 
 
 #### AI & Machine Learning
 `NumPy` • `Pandas` • `Matplotlib` • `Seaborn`    
