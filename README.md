@@ -13,8 +13,7 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 *(Currently learning C++)*
 
 #### Frontend & UI Development
-`React` • `React Native` • `Electron`  
-`HTML5` • `CSS3` • `Tailwind CSS`  
+`React` • `HTML5` • `CSS3` • `Tailwind CSS`  
 `Material UI` • `Redux Toolkit` • `Context API`
 
 #### Backend Ecosystem
