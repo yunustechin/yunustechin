@@ -23,11 +23,11 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 
 #### AI & Machine Learning
 `NumPy` • `Pandas` • `Matplotlib` • `Seaborn`    
-*(Currently learning machine learning, computer vision, deep learning, NLP, LLMs and MLOps.)*
+*(Currently learning machine learning, computer vision, deep learning, NLP and LLMs.)*
 
 #### DevOps & Cloud Platforms
 `Docker` • `Firebase` • `Heroku` • `Nginx`    
-*(Currently learning: CI/CD, observability, infrastructure as code, and cloud deployment strategies.)*
+*(Currently learning: CI/CD, observability, infrastructure as code, cloud deployment and MLOps strategies.)*
 
 #### Testing & QA
 `Unit Testing(Pytest, Jest)` • `Integration Testing(Postman)`      
