@@ -18,7 +18,7 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 
 #### Backend Ecosystem
 `Node.js` • `Express.js` • `Next.js` • `NestJS` • `FastAPI/Flask/httpx`  
-`RabbitMQ` • `Apache Kafka` • `WebSockets`
+`RabbitMQ` • `Apache Kafka` • `WebSockets`        
 `REST APIs` • `GraphQL` • `SQLAlchemy`   
 `PostgreSQL` • `MySQL` • `MongoDB` • `Redis` 
 
