@@ -9,8 +9,7 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 ### What I Work With
 
 #### Programming Languages
-`Python` • `C` • `JavaScript` • `TypeScript`   
-*(Currently learning C++)*
+`Python` • `C` • `JavaScript` • `TypeScript`
 
 #### Frontend & UI Development
 `React` • `HTML5` • `CSS3` • `Tailwind CSS`  
