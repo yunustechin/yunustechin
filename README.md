@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a Computer Engineering student at Marmara University with strong full-stack development skills. I build scalable back-end systems, craft responsive user interfaces, and design reliable application workflows. My work emphasizes clean architecture, structured testing, and smooth deployment pipelines. I'm currently advancing my knowledge in deployment operations and AI/ML.
+I'm a Computer Engineering student at Marmara University with strong full-stack development skills. I build scalable back-end systems, craft responsive user interfaces, and design reliable application workflows. My work emphasizes clean architecture, structured testing, and smooth deployment pipelines. I'm currently advancing my knowledge in MLOps and AI/ML.
 
 ---
 
@@ -12,20 +12,18 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 `Python` • `C` • `JavaScript` • `TypeScript`
 
 #### Frontend & UI Development
-`React` • `HTML5` • `CSS3` • `Tailwind CSS`  
-`Material UI` • `Redux Toolkit` • `Context API`
+`HTML5/CSS3` • `React` • `Next.js` • `Tailwind CSS` • `Material UI` • `Redux`     
 
 #### Backend Ecosystem
-`Node.js` • `Express.js` • `Next.js` • `NestJS` • `FastAPI/Flask/httpx`  
-`RabbitMQ` • `Apache Kafka` • `WebSockets`        
-`REST APIs` • `GraphQL` • `SQLAlchemy`   
-`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` 
+`Node.js(Express, NestJS)` • `FastAPI/Flask/httpx` • `GraphQL`   
+`RabbitMQ` • `Apache Kafka` • `WebSockets`         
+`SQLAlchemy` • `PostgreSQL` • `MySQL` • `MongoDB` • `Redis`   
 
 #### AI & Machine Learning
 `NumPy` • `Pandas` • `Matplotlib` • `Seaborn`    
-*(Currently learning machine learning, computer vision, deep learning, NLP and LLMs.)*
+*(Currently learning machine learning, deep learning, nlp, llm and generative ai.)*
 
-#### DevOps & Cloud Platforms
+#### DevOps & MLOps
 `Docker` • `Firebase` • `Heroku` • `Nginx`    
 *(Currently learning: CI/CD, observability, infrastructure as code, cloud deployment and MLOps strategies.)*
 
