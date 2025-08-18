@@ -11,10 +11,8 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 #### Programming Languages
 `Python` • `C` • `JavaScript` • `TypeScript`
 
-#### Frontend & UI Development
+#### Frontend & Backend Ecosystem
 `HTML5/CSS3` • `React` • `Next.js` • `Tailwind CSS` • `Material UI` • `Redux`     
-
-#### Backend Ecosystem
 `Node.js(Express, NestJS)` • `FastAPI/Flask/httpx` • `GraphQL`   
 `RabbitMQ` • `Apache Kafka` • `WebSockets`         
 `SQLAlchemy` • `PostgreSQL` • `MySQL` • `MongoDB` • `Redis`   
