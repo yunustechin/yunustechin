@@ -13,7 +13,7 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 
 #### Frontend & Backend Ecosystem
 `HTML5/CSS3` • `React` • `Next.js` • `Tailwind CSS` • `Material UI` • `Redux`     
-`Node.js(Express, NestJS)` • `FastAPI/Flask/httpx` • `GraphQL`   
+`Node.js(Express)` • `FastAPI/Flask/httpx` • `GraphQL`   
 `Apache Kafka` • `SQLAlchemy` • `PostgreSQL` • `MySQL` • `MongoDB` • `Redis`   
 
 #### AI & Machine Learning
