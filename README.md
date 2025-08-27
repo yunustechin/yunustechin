@@ -1,11 +1,5 @@
 <h2 align="center">Hey there! I'm Yunus Emre <img src="https://github.com/yunustechin/yunustechin/blob/master/Hi.gif" width="25"></h2>
 
-### About Me
-
-I'm a Computer Engineering student at Marmara University with strong full-stack development skills. I build scalable back-end systems, craft responsive user interfaces, and design reliable application workflows. My work emphasizes clean architecture, structured testing, and smooth deployment pipelines. I'm currently advancing my knowledge in MLOps and AI/ML.
-
----
-
 ### What I Work With
 
 #### Programming Languages
