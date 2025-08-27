@@ -11,24 +11,24 @@ I'm a Computer Engineering student at Marmara University with strong full-stack 
 #### Programming Languages
 `Python` • `C` • `JavaScript` • `TypeScript`
 
-#### Frontend & Backend Ecosystem 
-`HTML5/CSS3` • `React` • `Next.js` • `Tailwind CSS` • `Material UI` • `Redux`           
-`Node.js(Express)` • `FastAPI/Flask/httpx` • `GraphQL`   
-`Apache Kafka` • `WebSockets` • `SQLAlchemy`    
-`PostgreSQL` • `MySQL` • `MongoDB` • `Redis`        
-
 #### AI & Machine Learning
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn`    
-*(Currently learning machine learning, deep learning, nlp, llm and generative ai.)*
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn`  
+*(Currently learning machine learning, deep learning, NLP, LLM, and generative AI)*
+
+#### Frontend & Backend Ecosystem
+`React (Next.js, Tailwind CSS, Material UI, Redux)` • `HTML5/CSS3`  
+`Node.js (Express)` • `FastAPI/Flask/httpx` • `GraphQL` • `WebSockets` • `Apache Kafka` • `SQLAlchemy` 
+
+#### Databases & Infrastructure
+`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Docker` • `Firebase` • `Heroku` • `Nginx`
 
 #### DevOps & MLOps
-`Docker` • `Firebase` • `Heroku` • `Nginx`    
-*(Currently learning: CI/CD, observability, infrastructure as code, cloud deployment and MLOps strategies.)*
+*(Currently learning CI/CD, observability, infrastructure as code, cloud deployment, and MLOps strategies)*
 
 #### Testing & QA
-`Unit Testing(Pytest, Jest)` • `Integration Testing(Postman)`      
-`End-to-End Testing(Jest, Playwright)`  
-*(Actively improving my automation and CI/CD test coverage.)*
+`Unit Testing (Pytest, Jest)` • `Integration Testing (Postman)` • `End-to-End Testing (Jest, Playwright)`  
+*(Actively improving automation and CI/CD test coverage)*
+
 
 
 ---
