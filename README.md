@@ -17,11 +17,11 @@
 `PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Docker` • `Firebase` • `Heroku` • `Nginx`
 
 #### DevOps & MLOps
-*(Currently learning CI/CD, observability, infrastructure as code, cloud deployment, and MLOps strategies)*
+*(Currently learning observability, infrastructure as code, cloud deployment, and MLOps strategies)*
 
 #### Testing & QA
 `Unit Testing (Pytest, Jest)` • `Integration Testing (Postman)` • `End-to-End Testing (Jest, Playwright)`  
-*(Actively improving automation and CI/CD test coverage)*
+`Continuous Integration and Continuous Delivery(Github Actions)`   
 
 
 
