@@ -11,10 +11,12 @@
 
 #### Frontend & Backend Ecosystem
 `React (Next.js, Tailwind CSS, Material UI, Redux)` • `HTML5/CSS3`  
-`Node.js (Express)` • `FastAPI/Flask/httpx` • `GraphQL` • `WebSockets` • `Apache Kafka` • `SQLAlchemy` 
+`Node.js (Express)` • `FastAPI/Flask/httpx` • `GraphQL` • `WebSockets` • `Apache Kafka`
 
 #### Databases & Infrastructure
-`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Docker` • `Firebase` • `Heroku` • `Nginx`
+`PostgreSQL` • `MySQL` • `MongoDB` • `Redis`  
+`Sequelize` • `TypeORM` • `SQLAlchemy`    
+`Docker` • `Firebase` • `Heroku` • `Nginx`    
 
 #### DevOps & MLOps
 *(Currently learning observability, infrastructure as code, cloud deployment, and MLOps strategies)*
@@ -22,7 +24,6 @@
 #### Testing & QA
 `Unit Testing (Pytest, Jest)` • `Integration Testing (Postman)` • `End-to-End Testing (Jest, Playwright)`  
 `Continuous Integration and Continuous Delivery(Github Actions)`   
-
 
 
 ---
