@@ -22,8 +22,8 @@
 *(Currently learning observability, infrastructure as code, cloud deployment, and MLOps strategies)*
 
 #### Testing & QA
-`Unit Testing (Pytest, Jest)` • `Integration Testing (Postman)` • `End-to-End Testing (Jest, Playwright)`  
-`Continuous Integration and Continuous Delivery(Github Actions)`   
+`Lint / Static Analysis` • `Unit Testing` • `Integration Testing` • `End-to-End Testing `     
+`Continuous Integration and Continuous Delivery(Github Actions)`     
 
 
 ---
