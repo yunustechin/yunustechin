@@ -24,13 +24,3 @@
 #### Testing & QA
 `Lint / Static Analysis` • `Unit Testing` • `Integration Testing` • `End-to-End Testing `     
 `Continuous Integration and Continuous Delivery(Github Actions)`     
-
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunustechin&show_icons=true&theme=dark&count_private=true&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunustechin&layout=compact&theme=dark&hide_border=true" width="36%"/>
-</p>
