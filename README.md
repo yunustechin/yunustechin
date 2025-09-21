@@ -10,8 +10,8 @@
 *(Currently learning machine learning, deep learning, NLP, LLM, and generative AI)*
 
 #### Frontend & Backend Ecosystem
-`React (Next.js, Tailwind CSS, Material UI, Redux)` • `HTML5/CSS3`  
-`Node.js (Express)` • `FastAPI/Flask/httpx` • `GraphQL` • `WebSockets` • `Apache Kafka`
+`React (Next.js, Tailwind CSS, Redux)` • `HTML5/CSS3` • `Node.js (Express)` 
+`FastAPI/Flask/httpx` • `GraphQL` • `WebSockets` • `Apache Kafka`
 
 #### Databases & Infrastructure
 `PostgreSQL` • `MySQL` • `MongoDB` • `Redis`  
